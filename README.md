@@ -4,3 +4,5 @@ Jeg følte att vortex nettsiden så enkel ut, så jeg ville begynne med den. Men
 
 - https://www.vortex.com/
 - https://arngren.net/
+
+Andre nettsiden er i "argren2" mappen
